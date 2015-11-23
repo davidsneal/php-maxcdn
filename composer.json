@@ -6,7 +6,7 @@
     "homepage": "http://docs.maxcdn.com",
     "support": {
         "email": "support@maxcdn.com",
-        "source": "http://www.github.com/MaxCDN/php-maxcdn"
+        "source": "http://www.github.com/davidsneal/php-maxcdn"
     },
     "require": { 
         "php": ">=5.3.0",
