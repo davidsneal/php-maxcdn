@@ -1,5 +1,5 @@
 {
-    "name": "maxcdn/php-maxcdn",
+    "name": "davidsneal/php-maxcdn",
     "description": "PHP Wrapper for MaxCDN Remote Web Services",
     "type": "library",
     "license": "MIT",
