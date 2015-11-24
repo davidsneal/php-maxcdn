@@ -1,13 +1,3 @@
-##composer.json
-
-```php
-"autoload": {
-    "psr-4": {
-        "Davidsneal\\MaxCDN\\": "vendor/davidsneal/php-maxcdn/src"
-    }
-},
-```
-
 ##config/app.php
 
 ```php
@@ -19,7 +9,7 @@
 ##YourController.php
 
 ```php
-use Davidsneal\MaxCDN\MaxCDN;
+use MaxCDN;
 ```
  
 ## Usage
