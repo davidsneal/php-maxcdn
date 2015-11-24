@@ -1,4 +1,16 @@
-##config/app.php
+## composer.json
+```php
+"repositories": [
+    {
+        "type": "vcs", "url": "https://github.com/davidsneal/php-maxcdn"
+    }
+],
+"require": {
+    "davidsneal/php-maxcdn": "dev-master"
+},
+```
+
+## config/app.php
 
 ```php
 'providers' => [
@@ -6,7 +18,7 @@
 ],
 ```
 
-##YourController.php
+## YourController.php
 
 ```php
 use MaxCDN;
