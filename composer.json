@@ -15,8 +15,7 @@
     "autoload": {
         "psr-0": {
             "Davidsneal\\MaxCDN\\": "src/"
-        }
-    },
+        },
         "classmap": [
             "src/MaxCDN.php",
             "src/MaxCDN/OAuth/OAuthSignatureMethod_PLAINTEXT.php",
