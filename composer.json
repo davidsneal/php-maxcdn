@@ -16,6 +16,10 @@
         "psr-0": {
             "MaxCDN\\": "src/"
         },
+        "psr-4": {
+            "Davidsneal\\MaxCDN\\": "vendor/davidsneal/php-maxcdn/src"
+        }
+    },
         "classmap": [
             "src/MaxCDN.php",
             "src/MaxCDN/OAuth/OAuthSignatureMethod_PLAINTEXT.php",
